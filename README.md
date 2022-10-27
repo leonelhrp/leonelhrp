@@ -5,7 +5,7 @@
 
 <h2> Welcome 👋 , I'm Leonel Rojas.</h2>
 
-I'm a software developer based in Santigo de Chile CL, fullstack senior developer and javascript lover. My dream is to travel the world while doing what I like and build an app that helps thousands of people around the world.
+Senior web developer with a proven track record working in the information technology and services industry. I have experience in React.js, Vue.js, Node.js, MongoDB, Firebase, AWS and GCP. I like to provide technological solutions in software development through new technologies, share and exchange knowledge for professional and organizational growth.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
